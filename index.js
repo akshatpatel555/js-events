@@ -29,4 +29,4 @@ link.addEventListener('click', function(event){
 })
 
 // event delegation
-// register a listner on a common ancestor which can be used by listner which button was clicked
+// register a listner on a common ancestor which can be used by listner to detect which button was clicked
